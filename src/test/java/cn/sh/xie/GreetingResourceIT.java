@@ -1,4 +1,4 @@
-package org.acme;
+package cn.sh.xie;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
